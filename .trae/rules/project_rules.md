@@ -84,6 +84,7 @@
 ### 部署流程与环境（Deployment）
 - 环境：`Preview`（Vercel 预览）与 `Production`（生产）。
 - Vercel 配置：SPA 重写见 `vercel.json`；框架预设为 Vite；构建输出目录 `dist`。
+- Vercel 项目链接：`https://vercel.com/dashuais-projects-d2510616/dashuai-master-personal-website-rebulid`（真实部署管理）。
 - 流程：
   - 本地验证：`npm run build`、`npm run preview`。
   - 预览部署：连接 Git 仓库或 CLI 触发，自动生成预览链接。
