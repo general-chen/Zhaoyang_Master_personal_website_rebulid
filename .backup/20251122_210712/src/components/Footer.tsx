@@ -1,4 +1,4 @@
-﻿import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useTranslation } from './TranslationProvider';
 
@@ -23,7 +23,7 @@ const socialLinks = [
   },
   {
     name: 'ResearchGate',
-    href: 'https://researchgate.net/profile/Dashuai-Mou',
+    href: 'https://researchgate.net/profile/Zhaoyang-Mou',
     icon: (
       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
         <path d="M19.586 0c-.818 0-1.508.19-2.073.565-.563.377-.97.936-1.213 1.68-.242.744-.364 1.627-.364 2.647 0 1.098.122 2.05.364 2.854.243.804.65 1.402 1.213 1.795.565.394 1.255.59 2.073.59.818 0 1.508-.196 2.073-.59.563-.393.97-.991 1.213-1.795.242-.804.364-1.756.364-2.854 0-1.02-.122-1.903-.364-2.647-.243-.744-.65-1.303-1.213-1.68C21.094.19 20.404 0 19.586 0zm0 1.608c.394 0 .728.083.999.248.271.165.48.407.625.727.145.319.218.708.218 1.167 0 .458-.073.847-.218 1.167-.145.319-.354.561-.625.727-.271.165-.605.248-.999.248-.394 0-.728-.083-.999-.248-.271-.166-.48-.408-.625-.727-.145-.32-.218-.709-.218-1.167 0-.459.073-.848.218-1.167.145-.32.354-.562.625-.727.271-.165.605-.248.999-.248z"/>
@@ -74,7 +74,7 @@ export default function Footer() {
           >
             <div className="flex items-center space-x-3 mb-6">
               <div className="w-12 h-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">DS</span>
+                <span className="text-white font-bold text-sm">ZY</span>
               </div>
               <div>
                 <div className="text-2xl font-bold text-primary-dark theme-transition">{t('footer.personalInfo.name')}</div>

@@ -1,4 +1,4 @@
-﻿{
+{
   "common": {
     "loading": "Loading...",
     "error": "Error",
@@ -248,48 +248,48 @@
         "sparseToDense": {
           "title": "Transformer-based Sparse-to-Dense Flow Field Reconstruction",
           "journal": "Journal of Computational Physics",
-          "authors": ["Dashuai Mou", "Lei Zhao"],
+          "authors": ["Zhaoyang Mou", "Lei Zhao"],
           "description": "Proposed a Transformer-based method for reconstructing dense flow fields from sparse sensor data, enabling complete flow field reconstruction from limited sensor measurements."
         },
         "data": {
           "publication1": {
             "title": "DamFormer: A Transformer-based Model for Dam-break Flow Prediction with Cross-geometry Generalization",
-            "authors": "Dashuai Mou, Supervisor Name, Collaborator",
+            "authors": "Zhaoyang Mou, Supervisor Name, Collaborator",
             "journal": "Physics of Fluids",
             "abstract": "This paper proposes the DamFormer model based on Transformer architecture for cross-geometry dam-break flow prediction. The model achieves high-precision flow field prediction under different geometric configurations, providing new technical means for dam-break disaster assessment. A multi-geometry boundary dataset is constructed to achieve cross-geometry zero-shot prediction, solving the problem of high computational cost in traditional CFD simulations.",
             "keywords": ["Transformer", "Dam-break", "CFD", "Deep Learning", "Cross-geometry", "Physics of Fluids"]
           },
           "publication2": {
             "title": "Sparse→Dense Transformer: Sparse-to-Dense Field Reconstruction",
-            "authors": "Dashuai Mou, Collaborating Researcher",
+            "authors": "Zhaoyang Mou, Collaborating Researcher",
             "journal": "Physics of Fluids",
             "abstract": "For CFD/environmental flow, sparse sensing reconstruction of high-resolution spatiotemporal fields. Based on Transformer architecture to achieve intelligent reconstruction from sparse observations to dense fields, providing an efficient flow field reconstruction method.",
             "keywords": ["Transformer", "Neural Operator", "Field Reconstruction", "CFD", "Environmental Flow"]
           },
           "publication3": {
             "title": "CFD-FSI Analysis of Bionic Undulating Fin Propulsion System",
-            "authors": "Dashuai Mou, Westlake University Research Team",
+            "authors": "Zhaoyang Mou, Westlake University Research Team",
             "journal": "International Conference on Robotics and Automation (ICRA)",
             "abstract": "Westlake University i⁴-FSI Laboratory project. CFD/FSI coupled simulation analysis of bionic undulating fin propulsion system through Star-CCM+, Java Macro automated parameter sweeping, exploring bionic propulsion mechanisms.",
             "keywords": ["Star-CCM+", "CFD-FSI", "Bionic Propulsion", "Java Macro", "Westlake University"]
           },
           "patent1": {
             "title": "A Modular Self-reconfigurable Robot System",
-            "authors": "Dashuai Mou, Invention Team",
+            "authors": "Zhaoyang Mou, Invention Team",
             "journal": "Chinese Invention Patent",
             "abstract": "This invention discloses a modular self-reconfigurable cubic robot system Rs-ModCubes with autonomous reconfiguration capability and multiple motion modes, suitable for robot applications in complex environments.",
             "keywords": ["Modular Robot", "Self-reconfiguration", "Cubic Structure", "Robot System"]
           },
           "patent2": {
             "title": "Underwater Robot Bionic Sensing Device and Sensing Method",
-            "authors": "Dashuai Mou, Patent Team",
+            "authors": "Zhaoyang Mou, Patent Team",
             "journal": "Chinese Invention Patent",
             "abstract": "This invention provides an underwater robot bionic sensing device that achieves sensitive detection of water flow changes based on TENG technology, combined with artificial lateral line structure to improve sensing accuracy.",
             "keywords": ["Underwater Robot", "TENG", "Bionic Sensing", "Artificial Lateral Line"]
           },
           "patent3": {
             "title": "Fan Array Wind Tunnel Experimental Platform Control System",
-            "authors": "Dashuai Mou, Development Team",
+            "authors": "Zhaoyang Mou, Development Team",
             "journal": "Chinese Utility Model Patent",
             "abstract": "Modular 2.5m×2.5m fan array, STM32 multi-board PWM/TACH closed-loop control, VLAN/DHCP network management. Experimental platform for flow field control and test verification.",
             "keywords": ["Fan Array", "STM32", "PWM/TACH", "VLAN", "Experimental Platform"]
@@ -395,31 +395,31 @@
           "damformer": {
             "title": "DamFormer: A Transformer-based Neural Operator for Dam-break Flow Prediction",
             "journal": "Physics of Fluids",
-            "authors": ["Dashuai Chen", "Wei Zhang"],
+            "authors": ["Zhaoyang Mu", "Wei Zhang"],
             "description": "Proposed a Transformer-based neural operator DamFormer for predicting dam-break flows. This method can handle fluid dynamics problems under different geometric boundary conditions and achieve cross-geometric generalization capabilities."
           },
           "rsModCubes": {
             "title": "Design of Reconfigurable Robot System Based on Improved Modular Cubes",
             "journal": "Robotics Technology and Applications",
-            "authors": ["Dashuai Chen", "Ming Li"],
+            "authors": ["Zhaoyang Mu", "Ming Li"],
             "description": "Designed a reconfigurable robot system based on improved modular cubes with good reconfigurability and adaptability, capable of autonomously reconfiguring morphology according to task requirements."
           },
           "whiskerSensorArray": {
             "title": "Underwater Robot Environmental Perception System Based on Bionic Whisker Sensor Array",
             "journal": "Journal of Sensor Technology",
-            "authors": ["Dashuai Chen", "Qiang Wang"],
+            "authors": ["Zhaoyang Mu", "Qiang Wang"],
             "description": "Developed an underwater robot environmental perception system based on bionic whisker sensor array, simulating the perception mechanism of fish lateral line system to improve underwater environmental perception capabilities."
           },
           "whiskerSensor": {
             "title": "Design and Optimization of High-Sensitivity Bionic Whisker Sensor",
             "journal": "Nano Energy",
-            "authors": ["Dashuai Chen", "Hua Chen"],
+            "authors": ["Zhaoyang Mu", "Hua Chen"],
             "description": "Designed a high-sensitivity bionic whisker sensor capable of detecting minute fluid disturbances, providing precise environmental perception capabilities for underwater robots."
           },
           "sparseToDense": {
             "title": "Transformer-based Sparse-to-Dense Flow Field Reconstruction",
             "journal": "Journal of Computational Physics",
-            "authors": ["Dashuai Chen", "Lei Zhao"],
+            "authors": ["Zhaoyang Mu", "Lei Zhao"],
             "description": "Proposed a Transformer-based method for reconstructing dense flow fields from sparse sensor data, capable of reconstructing complete flow field information from limited sensor data."
           }
         },
@@ -612,7 +612,7 @@
   "about": {
     "title": "About Me",
     "description": "Learn about my academic background, research interests, and professional experience",
-    "introduction": "I am Dashuai Chen, currently focused on interdisciplinary research in computational fluid dynamics, robotics, and artificial intelligence. My research interests include neural operators, deep learning applications in scientific computing, and bionic robot system design.",
+    "introduction": "I am Zhaoyang Mu, currently focused on interdisciplinary research in computational fluid dynamics, robotics, and artificial intelligence. My research interests include neural operators, deep learning applications in scientific computing, and bionic robot system design.",
     "education": {
       "title": "Education",
       "items": {
@@ -826,47 +826,47 @@
   },
   "seo": {
     "site": {
-      "title": "Dashuai Chen - Personal Website",
-      "author": "Dashuai Chen",
+      "title": "Zhaoyang Mu - Personal Website",
+      "author": "Zhaoyang Mu",
       "language": "en-US",
       "locale": "en_US"
     },
     "default": {
-      "title": "Dashuai Chen - Computer Science Researcher & Software Engineer",
+      "title": "Zhaoyang Mu - Computer Science Researcher & Software Engineer",
       "description": "Focused on research and practice in artificial intelligence, machine learning, and software engineering. Committed to solving real-world problems through technological innovation and advancing scientific progress.",
-      "keywords": ["Dashuai Chen", "牟昭阳", "Computer Science", "Artificial Intelligence", "Machine Learning", "Software Engineering", "Researcher"],
+      "keywords": ["Zhaoyang Mu", "牟昭阳", "Computer Science", "Artificial Intelligence", "Machine Learning", "Software Engineering", "Researcher"],
       "jobTitle": "Computer Science Researcher & Software Engineer",
       "organization": "Research Institution"
     },
     "pages": {
       "home": {
-        "title": "Dashuai Chen - Computer Science Researcher & Software Engineer",
-        "description": "Welcome to Dashuai Chen's personal website. Focused on research and practice in artificial intelligence, machine learning, and software engineering, committed to solving real-world problems through technological innovation.",
-        "keywords": ["Dashuai Chen", "牟昭阳", "Personal Website", "Computer Science", "Artificial Intelligence", "Machine Learning", "Software Engineering"]
+        "title": "Zhaoyang Mu - Computer Science Researcher & Software Engineer",
+        "description": "Welcome to Zhaoyang Mu's personal website. Focused on research and practice in artificial intelligence, machine learning, and software engineering, committed to solving real-world problems through technological innovation.",
+        "keywords": ["Zhaoyang Mu", "牟昭阳", "Personal Website", "Computer Science", "Artificial Intelligence", "Machine Learning", "Software Engineering"]
       },
       "research": {
-        "title": "Research Directions - Dashuai Chen",
-        "description": "Learn about Dashuai Chen's research directions and academic achievements in artificial intelligence, machine learning, deep learning, and related fields.",
+        "title": "Research Directions - Zhaoyang Mu",
+        "description": "Learn about Zhaoyang Mu's research directions and academic achievements in artificial intelligence, machine learning, deep learning, and related fields.",
         "keywords": ["Research Directions", "AI Research", "Machine Learning", "Deep Learning", "Academic Research"]
       },
       "projects": {
-        "title": "Project Showcase - Dashuai Chen",
-        "description": "View Dashuai Chen's technical project portfolio, including AI applications, software development projects, and open-source contributions.",
+        "title": "Project Showcase - Zhaoyang Mu",
+        "description": "View Zhaoyang Mu's technical project portfolio, including AI applications, software development projects, and open-source contributions.",
         "keywords": ["Project Showcase", "Technical Projects", "Software Development", "Open Source Projects", "Portfolio"]
       },
       "publications": {
-        "title": "Academic Publications - Dashuai Chen",
-        "description": "Browse Dashuai Chen's academic paper publications, conference presentations, and research achievements.",
+        "title": "Academic Publications - Zhaoyang Mu",
+        "description": "Browse Zhaoyang Mu's academic paper publications, conference presentations, and research achievements.",
         "keywords": ["Academic Papers", "Research Publications", "Conference Papers", "Academic Achievements"]
       },
       "skills": {
-        "title": "Technical Skills - Dashuai Chen",
-        "description": "Learn about Dashuai Chen's technical skills, programming language proficiency, and professional tool experience.",
+        "title": "Technical Skills - Zhaoyang Mu",
+        "description": "Learn about Zhaoyang Mu's technical skills, programming language proficiency, and professional tool experience.",
         "keywords": ["Technical Skills", "Programming Languages", "Professional Skills", "Tool Usage"]
       },
       "contact": {
-        "title": "Contact Information - Dashuai Chen",
-        "description": "Get in touch with Dashuai Chen to explore collaboration opportunities or academic exchanges.",
+        "title": "Contact Information - Zhaoyang Mu",
+        "description": "Get in touch with Zhaoyang Mu to explore collaboration opportunities or academic exchanges.",
         "keywords": ["Contact Information", "Collaboration Opportunities", "Academic Exchange", "Contact Me"]
       }
     }
@@ -894,7 +894,7 @@
       "address": "Address"
     },
     "legal": {
-      "copyright": "Dashuai Chen. All rights reserved.",
+      "copyright": "Zhaoyang Mu. All rights reserved.",
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",
       "sitemap": "Sitemap"

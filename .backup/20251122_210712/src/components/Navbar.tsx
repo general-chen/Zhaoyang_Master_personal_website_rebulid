@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -70,10 +70,10 @@ export default function Navbar() {
             className="flex items-center space-x-3 group"
           >
             <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">DS</span>
+              <span className="text-white font-bold text-sm">ZY</span>
             </div>
             <div className="hidden sm:block">
-              <div className="text-lg font-semibold text-primary-dark theme-transition">Dashuai</div>
+              <div className="text-lg font-semibold text-primary-dark theme-transition">Zhaoyang</div>
             </div>
           </Link>
 
