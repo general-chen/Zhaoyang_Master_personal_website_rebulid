@@ -60,7 +60,9 @@
     "publications": "Publications",
     "contact": "Contact",
     "blog": "Blog",
-    "resume": "Resume"
+    "resume": "Resume",
+    "skills": "Skills",
+    "asciiDemo": "ASCII Demo"
   },
   "home": {
     "hero": {

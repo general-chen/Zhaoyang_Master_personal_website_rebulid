@@ -60,7 +60,9 @@
     "publications": "学术成果",
     "contact": "联系我",
     "blog": "博客",
-    "resume": "简历"
+    "resume": "简历",
+    "skills": "技能",
+    "asciiDemo": "ASCII 演示"
   },
   "home": {
     "hero": {
